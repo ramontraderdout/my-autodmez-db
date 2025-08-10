@@ -1,4 +1,3 @@
-# my-autodmez-db
 [
   {"name":"Cristiano Ronaldo","rating":91,"league":"Saudi Pro League","nation":"Portugal","club":"Al Nassr","position":"ST"},
   {"name":"Lionel Messi","rating":93,"league":"MLS","nation":"Argentina","club":"Inter Miami","position":"RW"},
